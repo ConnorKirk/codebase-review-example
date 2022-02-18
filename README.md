@@ -1,6 +1,7 @@
 # Codebase Review Example
 
-Sometimes it is useful to perform a code review on an existing codebase.
+> This doesn't work on Github, but does on Gitlab :shrug:
+Sometimes its useful to perform a code review on an existing codebase.
 I wanted a pull request like workflow for doing so. 
 
 This repository demonstrates how you can create a pull request to review the code of an existing codebase.
